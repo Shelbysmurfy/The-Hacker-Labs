@@ -22,7 +22,7 @@ Escaneo para todos los puertos
 
 -Pn: Deshabilitamos el descubrimiento de host mediante ping.
 
-Ponemos la ip en el buscador y nos encontramso con esto
+Ponemos la ip en el buscador y nos encontramos con esto:
 
 ![image](https://github.com/user-attachments/assets/0867f8d6-0543-4e8d-a005-21d317fef9ae)
 
