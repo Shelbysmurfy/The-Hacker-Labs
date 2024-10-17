@@ -12,7 +12,7 @@ Escaneo para todos los puertos
 
 -sS : Realiza un TCP SYN Scan para escanear de manera rápida que puertos están abiertos.
 
--sC : Realiz una escaneo con los scripts basicos de reconocimiento
+-sC : Realiza una escaneo con los scripts basicos de reconocimiento
 
 -sV : Realiza un escaneo en buqueda de los servicios
 
