@@ -53,7 +53,7 @@ Vemos el directorio Users, nos metemos.
 
 ![image](https://github.com/user-attachments/assets/26f71058-e849-4fa9-bde0-1a42566901ce)
 
-Dentro de este directorio encontramos el usuario Admin y Lola, que es donde encontraremos las flags que buscamos.
+Dentro de este directorio encontramos el usuario Admin y Lola, y entrando en ellos veremos el directorio Desktop, donde encontraremos las flags que buscamos.
 
 
 
