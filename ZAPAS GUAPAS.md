@@ -16,11 +16,11 @@ Viendo que el puerto 80 esta abierto, entramos en el para ver que web nos encont
 
 ![image](https://github.com/user-attachments/assets/b259d7e9-be2f-4905-b8dc-3973dcef9b25)
 
-No encontramos nada interesante, por tanto buscaremos directorios con la herramienta dirsearch, que funciona muy similar que el Gobuster.
+No encontramos nada interesante, por tanto buscaremos archivos con la herramienta dirsearch, que funciona muy similar que el Gobuster.
 
 ![image](https://github.com/user-attachments/assets/a945fc39-68ee-40a0-9a2c-71f085e8368c)
 
-Entramos en el directorio login.html
+Entramos en el archivo login.html
 
 ![image](https://github.com/user-attachments/assets/bbdd6248-1a6e-46db-a2d1-1204d1ecf672)
 
