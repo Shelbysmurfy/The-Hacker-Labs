@@ -54,7 +54,7 @@ Y si nos vamos al directorio /home/paella, encontramos la primera flag, la del u
 
 ![image](https://github.com/user-attachments/assets/b45bd8ad-fca4-4760-8af8-06087cc1706a)
 
-Encontramos la capabilitie gdb. 
+Encontramos la capabilitie gdb, también la podemos encontrar haciendo uso del linpeas.sh
 
 ![image](https://github.com/user-attachments/assets/940cc3f1-bb48-4bbd-861a-e3176a3ba721)
 
